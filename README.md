@@ -19,32 +19,32 @@ Participants are tasked with using time series analysis and forecasting models (
 
 1. Stock Universe Selection:
    *Selected 5–10 NSE-listed stocks based on:
-      -Historical volatility (using rolling standard deviation)
-      -Trend strength (via seasonal decomposition)
-      -Sectoral diversity for risk mitigation1
+      Historical volatility (using rolling standard deviation).
+      Trend strength (via seasonal decomposition).
+      Sectoral diversity for risk mitigation.
    *Rationale for each stock choice is documented in the report.
 
 2. Data Preprocessing:
-   *Handled missing values (forward/backward fill).
-   *Checked and enforced stationarity (ADF test, differencing).
-   *Scaled data for ML models (e.g., MinMaxScaler for LSTM).
-   *Performed train-test split (last 6 months for validation).
+   Handled missing values (forward/backward fill).
+   Checked and enforced stationarity (ADF test, differencing).
+   Scaled data for ML models (e.g., MinMaxScaler for LSTM).
+   Performed train-test split (last 6 months for validation).
 
 3. Time Series Forecasting:
-   *Implemented and compared models:
-     -ARIMA/SARIMA (tuned via AIC/BIC)
-     -Facebook Prophet
-     -LSTM/GRU
-     -Transformer-based models
-   *Forecasted prices for the next 2 trading days.
-   *Evaluated using MAPE, RMSE, and hit rate (directional accuracy).
+   Implemented and compared models:
+     ARIMA/SARIMA (tuned via AIC/BIC)
+     Facebook Prophet
+     LSTM/GRU
+     Transformer-based models
+   Forecasted prices for the next 2 trading days.
+   Evaluated using MAPE, RMSE, and hit rate (directional accuracy).
 
 4. Volatility & Trend Analysis:
-   *Estimated short-term volatility (log returns, GARCH/ARCH models).
-   *Decomposed price series (trend, seasonality, noise).
-   *Interpreted trends and volatility to inform allocation.
+   Estimated short-term volatility (log returns, GARCH/ARCH models).
+   Decomposed price series (trend, seasonality, noise).
+   Interpreted trends and volatility to inform allocation.
 
 5. Stock Selection & Allocation Strategies:
-   *Forecast-Guided Allocation: Allocated more capital to stocks with higher predicted gains and model confidence.
-   *Volatility-Aware Sizing: Reduced exposure to stocks with high expected volatility to manage risk.
-   *Diversification by sector and correlation analysis.
+   Forecast-Guided Allocation: Allocated more capital to stocks with higher predicted gains and model confidence.
+   Volatility-Aware Sizing: Reduced exposure to stocks with high expected volatility to manage risk.
+   Diversification by sector and correlation analysis.
