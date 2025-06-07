@@ -105,7 +105,7 @@ Before running the project, ensure you have the following installed:
 
 ## 🧑‍💻 Contributor
 
-- **Your Name**: [GitHub Profile](https://github.com/yourusername)  
+- **Your Name**: [GitHub Profile](https://github.com/Adityabaan)  
 Feel free to connect for queries, suggestions, or collaborations!
 
 ---
@@ -113,8 +113,8 @@ Feel free to connect for queries, suggestions, or collaborations!
 ## 📬 Contact
 
 For any questions or feedback:  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🌐 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+📧 Email: [adityabaantripathy@gmail.com](mailto:adityabaantripathy@gmail.com)  
+🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/adityabaan-tripathy-6b245323b/)  
 
 ---
 
