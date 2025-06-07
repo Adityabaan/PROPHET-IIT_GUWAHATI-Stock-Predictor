@@ -7,7 +7,7 @@ This project focuses on developing a **data-driven approach** for short-term **s
 
 ---
 
-&nbsp; &nbsp; ![Image Alt](https://github.com/Adityabaan/PROPHET-IIT_GUWAHATI-Stock-Predictor/blob/dc4f4980a29b7527e93876a38994961011e45699/stockgrow.PR_.jpg) &nbsp; &nbsp; ![Image Alt](https://github.com/Adityabaan/PROPHET-IIT_GUWAHATI-Stock-Predictor/blob/dc4f4980a29b7527e93876a38994961011e45699/profile.png) &nbsp; &nbsp; ![Image Alt](https://github.com/Adityabaan/PROPHET-IIT_GUWAHATI-Stock-Predictor/blob/dc4f4980a29b7527e93876a38994961011e45699/images.png)
+&nbsp; &nbsp; ![Image Alt](https://github.com/Adityabaan/PROPHET-IIT_GUWAHATI-Stock-Predictor/blob/69010543fc9603610a8a817a83f03ed92ef56858/unnamed.png) &nbsp; &nbsp; ![Image Alt](https://github.com/Adityabaan/PROPHET-IIT_GUWAHATI-Stock-Predictor/blob/dc4f4980a29b7527e93876a38994961011e45699/profile.png) &nbsp; &nbsp; ![Image Alt](https://github.com/Adityabaan/PROPHET-IIT_GUWAHATI-Stock-Predictor/blob/dc4f4980a29b7527e93876a38994961011e45699/images.png)
 
 
 ## 📝 Overview
