@@ -105,7 +105,7 @@ Before running the project, ensure you have the following installed:
 
 ## 🧑‍💻 Contributor
 
-- **Your Name**: [GitHub Profile](https://github.com/Adityabaan)  
+- **Adityabaan Tripathy**: [GitHub Profile](https://github.com/Adityabaan)  
 Feel free to connect for queries, suggestions, or collaborations!
 
 ---
@@ -114,7 +114,7 @@ Feel free to connect for queries, suggestions, or collaborations!
 
 For any questions or feedback:  
 📧 Email: [adityabaantripathy@gmail.com](mailto:adityabaantripathy@gmail.com)  
-🌐 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/adityabaan-tripathy-6b245323b/)  
+🌐 LinkedIn: [Adityabaan Tripathy](https://www.linkedin.com/in/adityabaan-tripathy-6b245323b/)  
 
 ---
 
